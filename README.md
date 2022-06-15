@@ -15,9 +15,14 @@ Changes can be found in Changelog.md
 
 -Extract
 
--Copy the folder into .minecraft/version
+-Copy the folder into .minecraft/versions
+
+
+![Copy folder](https://github.com/Reverse-23/ReversedPvP/blob/main/2.png)
 
 -Add the version in the launcher. (Is called 1.8.9-ReversedPvP)
+
+![Add to instaler](https://github.com/Reverse-23/ReversedPvP/blob/main/1.png)
 
 
 ## BUGS
