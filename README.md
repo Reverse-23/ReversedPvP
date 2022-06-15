@@ -4,6 +4,9 @@ ReversedPvP download rep.
 To find the password for the download and info, got to: https://discord.gg/A2bJSuDkwN
 
 
+Changelog.md
+
+
 
 # How to use
 
