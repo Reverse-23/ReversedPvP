@@ -19,3 +19,12 @@ Changes can be found in Changelog.md
 
 -Add the version in the launcher. (Is called 1.8.9-ReversedPvP)
 
+
+## BUGS
+
+Please report bugs to Issues.
+
+#### 1.0
+
+- ~~Crash when trying to open texturepacks~~ (Fixed).
+
