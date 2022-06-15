@@ -22,7 +22,7 @@ Changes can be found in Changelog.md
 
 ## BUGS
 
-Please report bugs to Issues.
+Please report bugs to Issues or in discord.
 
 #### 1.0
 
