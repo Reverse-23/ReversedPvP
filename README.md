@@ -25,10 +25,15 @@ Changes can be found in Changelog.md
 ![Add to instaler](https://github.com/Reverse-23/ReversedPvP/blob/main/1.png)
 ## Features
 -Optifine
+
 -ThirdPerson better render
+
 -Custom capes
+
 -Auto GG (key g)
+
 -fullbright (key .)
+
 -1.7 animations
 
 
