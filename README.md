@@ -23,7 +23,7 @@ Changes can be found in Changelog.md
 -Add the version in the launcher. (Is called 1.8.9-ReversedPvP)
 
 ![Add to instaler](https://github.com/Reverse-23/ReversedPvP/blob/main/1.png)
-##Features
+## Features
 -Optifine
 -ThirdPerson better render
 -Custom capes
