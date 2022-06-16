@@ -2,7 +2,7 @@
 
 ReversePvP download rep.
 
-To find the password for the download and info, got to: https://discord.gg/A2bJSuDkwN
+Fownload and info, go to: https://discord.gg/A2bJSuDkwN
 
 
 Changes can be found in Changelog.md
@@ -11,30 +11,30 @@ Changes can be found in Changelog.md
 
 # How to use
 
--Download from relases latest version.
+- Download from relases latest version.
 
--Extract
+- Extract
 
--Copy the folder into .minecraft/versions
+- Copy the folder into .minecraft/versions
 
 
 ![Copy folder](https://github.com/Reverse-23/ReversedPvP/blob/main/2.png)
 
--Add the version in the launcher. (Is called 1.8.9-ReversedPvP)
+- Add the version in the launcher. (Is called 1.8.9-ReversedPvP)
 
 ![Add to instaler](https://github.com/Reverse-23/ReversedPvP/blob/main/1.png)
 ## Features
--Optifine
+- Optifine
 
--ThirdPerson better render
+- ThirdPerson better render
 
--Custom capes
+- Custom capes
 
--Auto GG (key g)
+- Auto GG (key g)
 
--fullbright (key .)
+- Fullbright (key .)
 
--1.7 animations
+- 1.7 animations
 
 
 
@@ -47,5 +47,5 @@ Please report bugs to Issues or in discord.
 - ~~Crash when trying to open texturepacks~~ (Fixed).
 
 #### 0.2
-- 
+- None at the moment
 
