@@ -1,8 +1,8 @@
 # ReversedPvP
 
-ReversePvP download rep.
+ReversedPvP download rep.
 
-Fownload and info, go to: https://discord.gg/A2bJSuDkwN
+For download and info, go to: https://discord.gg/A2bJSuDkwN
 
 
 Changes can be found in Changelog.md
